@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D352FA2C-C114-49D9-86C4-590E698BA9AC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fah-adapter.data", "fah-adapter.data\fah-adapter.data.fsproj", "{656EF24A-8E25-4B84-B930-420CF21E624F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fah-adapter", "fah-adapter\fah-adapter.csproj", "{368345ED-A335-4C04-A853-491BDA4E58B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A061102A-F778-47E5-A600-B3C523AE5481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A061102A-F778-47E5-A600-B3C523AE5481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A061102A-F778-47E5-A600-B3C523AE5481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A061102A-F778-47E5-A600-B3C523AE5481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656EF24A-8E25-4B84-B930-420CF21E624F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656EF24A-8E25-4B84-B930-420CF21E624F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656EF24A-8E25-4B84-B930-420CF21E624F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656EF24A-8E25-4B84-B930-420CF21E624F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368345ED-A335-4C04-A853-491BDA4E58B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368345ED-A335-4C04-A853-491BDA4E58B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368345ED-A335-4C04-A853-491BDA4E58B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368345ED-A335-4C04-A853-491BDA4E58B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CFAF64F-DD8A-4A7C-A3C9-D27A7658B2A0}
+	EndGlobalSection
+EndGlobal
